@@ -2,3 +2,6 @@ body {
   background-image: url("boliviainteligente-eEAst2loeTc-unsplash.jpg");
   background-size: cover;
 }
+* {
+  color: aliceblue;
+}
